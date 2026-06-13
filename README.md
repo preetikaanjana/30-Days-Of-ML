@@ -11,5 +11,6 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 3** | NumPy Foundations | Completed | [Notebook](./day%203/) |
 | **Day 4** | Pandas Foundations | Completed | [Notebook](./day%204/) |
 | **Day 5** | Project 1 | Completed | [Notebook](./day%205/) |
-| **Day 6** | Data Visualization- Matplotlib & Seaborn | Upcoming| [Notebook](./day%205/) |
+| **Day 6** | Data Visualization- Matplotlib & Seaborn | Completed| [Notebook](./day%206/) |
+| **Day 5** | Project 2 | Upcoming | - |
 
