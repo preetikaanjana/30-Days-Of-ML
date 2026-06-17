@@ -15,7 +15,7 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 7** | Project 2 | Completed | [Notebook](./day%207/) |
 | **Day 8** | Statistics | Completed | [Notebook](./day%208/) |
 | **Day 9** | Linear Regression | Completed | [Notebook](./day%209/) |
-| **Day 10** | Project 3 | Upcoming | - |
+| **Day 10** | Project 3 | Completed | [Notebook](./day%210/) |
 
 
 
