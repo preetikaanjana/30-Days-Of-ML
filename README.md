@@ -17,7 +17,8 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 9** | Linear Regression | Completed | [Notebook](./day%209/) |
 | **Day 10** | Project 3 | Completed | [Notebook](./day%210/) |
 | **Day 11** | Logistic Regression | Completed | [Notebook](./day%211/) |
-| **Day 11** | K-Nearest Neighbors | Completed | [Notebook](./day%212/) |
+| **Day 12** | K-Nearest Neighbors | Completed | [Notebook](./day%212/) |
+| **Day 13** | Naive Bayes | Completed | [Notebook](./day%213/) |
 
 
 
