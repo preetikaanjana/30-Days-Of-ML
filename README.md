@@ -22,7 +22,8 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 14** | Decision Trees | Completed | [Notebook](./day%214/) |
 | **Day 15** | Support Vector Machine | Completed | [Notebook](./day%215/) |
 | **Day 16** | Project 4 | Completed | [Notebook](./day%216/) |
-| **Day 17** | Grid Search CV | Completed | [Notebook](./day%217/) |
+| **Day 17** | GridSearchCV And RandomizedSearchCV | Completed | [Notebook](./day%217/) |
+| **Day 18** | Ensemble Learning | Completed | [Notebook](./day%218/) |
 
 
 
