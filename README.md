@@ -24,6 +24,7 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 16** | Project 4 | Completed | [Notebook](./day%216/) |
 | **Day 17** | GridSearchCV And RandomizedSearchCV | Completed | [Notebook](./day%217/) |
 | **Day 18** | Ensemble Learning | Completed | [Notebook](./day%218/) |
+| **Day 19** | Clustering | Completed | [Notebook](./day%219/) |
 
 
 
