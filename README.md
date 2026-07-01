@@ -27,6 +27,8 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 19** | Clustering | Completed | [Notebook](./day%219/) |
 | **Day 20** | PCA Dimension | Completed | [Notebook](./day%220/) |
 | **Day 21** | NLP | Completed | [Notebook](./day%221/) |
+| **Day 22** | Basics of Deep Learning | Completed | [Notebook](./day%222/) |
+
 
 
 
