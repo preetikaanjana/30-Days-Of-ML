@@ -30,6 +30,7 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 22** | Basics of Deep Learning | Completed | [Notebook](./day%222/) |
 | **Day 23** | Iris Flower Species Prediction using Multilayer Perceptrons (MLP) | Completed | [Notebook](./day%223/) |
 | **Day 24** | Convolutional Neural Network (CNN) | Completed | [Notebook](./day%224/) |
+| **Day 25** | Implementation of RNN | Completed | [Notebook](./day%225/) |
 
 
 
