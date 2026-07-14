@@ -34,6 +34,7 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 26** | Quote Generation using LSTM and RNN Networks | Completed | [Notebook](./day%226/) |
 | **Day 27** | Customer Segmentation Clustering PCA | Completed | [Notebook](./day%227/) |
 | **Day 28** | Loan Default Ensemble Learning | Completed | [Notebook](./day%228/) |
+| **Day 29** | Sentiment Analysis LSTM | Completed | [Notebook](./day%229/) |
 
 
 
