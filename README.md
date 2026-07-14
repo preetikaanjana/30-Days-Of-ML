@@ -35,6 +35,7 @@ Welcome to my 30 Days of ML journey! Over the next month, I am diving deep into 
 | **Day 27** | Customer Segmentation Clustering PCA | Completed | [Notebook](./day%227/) |
 | **Day 28** | Loan Default Ensemble Learning | Completed | [Notebook](./day%228/) |
 | **Day 29** | Sentiment Analysis LSTM | Completed | [Notebook](./day%229/) |
+| **Day 30** | Fashion CNN Model (Capston Project)| Completed | [Notebook](./day%230/) |
 
 
 
